@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "0a43d395-ffef-41be-9382-f56ddf3403bf",
+            "Value": {
+                "id": "49a064ee-cdab-4e70-a351-431cd932a1f0",
+                "resourcePath": "rooms\\rm_4\\rm_4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "0ca70309-0ccf-476c-bcc0-b4bf7b3a4416",
+            "Value": {
+                "id": "56688aaa-6bfa-4300-8899-dfcf29eb3657",
+                "resourcePath": "sprites\\spr_gary_right\\spr_gary_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10ed41ad-5655-40ee-ae49-a6243b567e36",
             "Value": {
                 "id": "5db163d2-8530-4a72-9284-472282cf1e79",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "5f13183d-08d5-4530-b06e-2d090a1ff45d",
+            "Value": {
+                "id": "68e955cf-6ac0-4bcb-91fd-56395190dae3",
+                "resourcePath": "sprites\\spr_krusty_krabs\\spr_krusty_krabs.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a809d3b-3323-495e-b641-bfbd3b68b7ac",
             "Value": {
                 "id": "f5fbe2e4-2df5-45b4-b847-7f48d578bad6",
@@ -263,6 +287,22 @@
             }
         },
         {
+            "Key": "b6b7801d-a423-434d-963d-e9f9482decaf",
+            "Value": {
+                "id": "fbdddd65-6ed2-4d8b-aeb1-a69debfcbb5c",
+                "resourcePath": "sprites\\spr_gary_left\\spr_gary_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6deeb1c-a2a7-49e1-860a-7d9db596b48b",
+            "Value": {
+                "id": "8b47666f-5db5-4e53-900b-84925700a65d",
+                "resourcePath": "rooms\\rm_3\\rm_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b999da71-a44c-4334-ab2d-735cb68e39ff",
             "Value": {
                 "id": "3c4cf061-05a8-4daf-b2e2-0a4fca0d6f73",
@@ -279,11 +319,27 @@
             }
         },
         {
+            "Key": "d16a8aaa-a14f-47c1-ae16-4db1ef48ef17",
+            "Value": {
+                "id": "d1c10fde-aa34-401d-bea5-eda13401cc08",
+                "resourcePath": "objects\\obj_krusty_krabs\\obj_krusty_krabs.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d2cf1619-0d5a-4c85-9801-4ecbf3f9aa17",
             "Value": {
                 "id": "2eeb047b-4bbe-47be-ab43-9acbe52e481f",
                 "resourcePath": "sprites\\spr_moving_spongebob_moving_left\\spr_moving_spongebob_moving_left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e988da67-d7bc-4f0c-baee-ee08ca259a44",
+            "Value": {
+                "id": "ba834b58-0a24-4d1f-8815-a9449f23ec15",
+                "resourcePath": "objects\\ob_gary\\ob_gary.yy",
+                "resourceType": "GMObject"
             }
         },
         {

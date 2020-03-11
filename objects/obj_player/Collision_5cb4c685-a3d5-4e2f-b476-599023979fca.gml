@@ -1,9 +1,6 @@
-/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 5E510045
-/// @DnDArgument : "x" "0"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "0"
-/// @DnDArgument : "y_relative" "1"
-x += 0;
-y += 0;
+/// @DnDHash : 1C5C2EB6
+/// @DnDArgument : "room" "rm_2"
+/// @DnDSaveInfo : "room" "29f2ffc9-2f84-4f55-9e5b-be4e78819873"
+room_goto(rm_2);
